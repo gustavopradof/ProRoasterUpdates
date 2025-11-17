@@ -1,0 +1,17 @@
+{
+  "appName": "ProRoaster",
+  "description": "Uma nova versão do ProRoaster está disponível.",
+  "items": [
+    {
+      "version": "1.0.0",
+      "shortVersion": 100,
+      "changes": [
+        { "type": "feat", "message": "Lançamento inicial com auto-update." }
+      ],
+      "date": "2025-11-17",
+      "mandatory": false,
+      "url": "https://gustavopradof.github.io/ProRoasterUpdates/1.0.0+100-linux",
+      "platform": "linux"
+    }
+  ]
+}
