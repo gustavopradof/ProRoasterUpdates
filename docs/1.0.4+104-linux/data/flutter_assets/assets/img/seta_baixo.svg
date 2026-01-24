@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="11.5625"
+   height="5.8986206"
+   viewBox="0 0 11.5625 5.8986206"
+   sodipodi:docname="TELAS SUPERVISORIO CALORATTO - CARMOMAQ - NOVA VERSÃO GSB2 - AGO24.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1560">
+      <path
+         d="M 0,768 H 985.2 V 0 H 0 Z"
+         transform="translate(-724.88027,-236.4154)"
+         id="path1560" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="-3.0087602e-05"
+       y="6.7725455e-07"
+       width="11.5625"
+       height="5.8986206"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1139"
+     inkscape:groupmode="layer"
+     inkscape:label="10"
+     transform="translate(-13050.735,-730.49017)">
+    <path
+       id="path1559"
+       d="M 0,0 -4.424,4.424 H 4.248 Z"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,13056.633,736.38882)"
+       clip-path="url(#clipPath1560)" />
+  </g>
+</svg>
